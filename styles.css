@@ -1,0 +1,90 @@
+/* Additional styles for Homepage */
+section.content {
+    background-color: #f0f0f0;
+    padding: 2em;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+/* Additional styles for Childhood */
+section.content {
+    background-color: #e6f7ff;
+    padding: 2em;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+/* Additional styles for Education */
+section.content {
+    background-color: #f9e2b2;
+    padding: 2em;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+/* Additional styles for Skills and Talents */
+section.content {
+    background-color: #5b380b;
+    padding: 2em;
+}
+
+footer {
+    background-color: #ff2c2c;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: relative;
+    bottom: 30;
+    width: 10%;
+}
+/* Additional styles for Future Aspirations */
+section.content {
+    background-color: #fcd5b4;
+    padding: 2em;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+/* Additional styles for Contact Information */
+section.content {
+    background-color: #de1f62;
+    padding: 2em;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}

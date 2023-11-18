@@ -1,0 +1,21 @@
+// Common JavaScript for all pages
+
+// You can add common functions or global scripts here
+
+// Additional scripts for Homepage
+// Include scripts specific to the Homepage
+
+// Additional scripts for Childhood
+// Include scripts specific to Childhood
+
+// Additional scripts for Education
+// Include scripts specific to Education
+
+// Additional scripts for Skills and Talents
+// Include scripts specific to Skills and Talents
+
+// Additional scripts for Future Aspirations
+// Include scripts specific to Future Aspirations
+
+// Additional scripts for Contact Information
+// Include scripts specific to Contact Information
